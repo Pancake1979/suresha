@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+    <html>
+     <head>
+        <title>coding excercise</title>
+    </head>
+    <body>
+
+        <h1>This is a coding excercise </h1>
+        <p>This is a paragraph.</p>
+        <script>
+            var age = 8;
+            var name = "owen";
+            console.log(name);
+            if(age > 14 ) {
+                alert("sorry, this page is for kids only !");
+            } else {
+                alert("Hello, " + name  );
+            }
+            
+
+
+            
+
+        </script>
+    </body> 
+</html>
